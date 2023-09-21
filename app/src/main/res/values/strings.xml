@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Counter App</string>
+    <string name="click_here_to_increase">Click here to increase</string>
+    <string name="_0">0</string>
+    <string name="click_here_to_decrease">Click here to decrease</string>
+    <string name="welcome_to_the_counter_app">Welcome to the Counter App</string>
+    <string name="the_counter_app">The Counter App</string>
+</resources>
